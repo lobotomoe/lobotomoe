@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Jointoo project](https://jointoo.app)
+- 🔭 My main interest is decentralized social contract systems. I believe governments and other authorities in their current form will be replaced with tech-based social contract systems.
 - 🌱 I’m currently learning how to use technologies for social problems solving
 - 📫 How to reach me: @m_surf in Telegram
 
